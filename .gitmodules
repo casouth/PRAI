@@ -1,0 +1,9 @@
+[submodule "apps/backend/anything-llm"]
+	path = apps/backend/anything-llm
+	url = https://github.com/Mintplex-Labs/anything-llm
+[submodule "packages/rag-core/kotaemon"]
+	path = packages/rag-core/kotaemon
+	url = https://github.com/Cinnamon/kotaemon
+[submodule "packages/research-agent/storm"]
+	path = packages/research-agent/storm
+	url = https://github.com/stanford-oval/storm
